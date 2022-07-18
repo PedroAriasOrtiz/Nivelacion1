@@ -10,9 +10,10 @@
 
 header{
     background: url(../img/bg-header.png);
+    background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
     text-align: center;
-    padding-bottom: 145px;
     
 }
 .principal img{
@@ -63,11 +64,10 @@ main #planes .card{
 }
 main #destinos{
     background: url(../img/bg-destinos.png);
+    background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
-    padding-top: 70px;
-    padding-bottom: 80px;
     text-align: center;
-    padding-left: 40px;
     
     
 }
