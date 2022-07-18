@@ -1,6 +1,6 @@
 #contPadre{
     
-    height: 450px;
+    height: 300px;
 }
 
 .logoP{
@@ -11,7 +11,7 @@
 header{
     background: url(../img/bg-header.png);
     text-align: center;
-    padding-bottom: 150px;
+    padding-bottom: 145px;
     
 }
 .principal img{
@@ -34,8 +34,8 @@ header{
    
 }
 .navbar{
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 95px;
+    padding-right: 95px;
     font-size: 20px;
 }
 .navbar a{
